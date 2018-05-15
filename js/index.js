@@ -50,8 +50,3 @@ function playVideoOnScroll(){
 
 inicializarSlider();
 playVideoOnScroll();
-
-
-$('#mostrarTodos').click(function () {
-  $('.tituloContenido').css('height','180px')
-})
